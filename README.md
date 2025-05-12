@@ -1,1 +1,1 @@
-# Blood-Group-Detection-using-Fingerprint
+# Blood-group-prediction
